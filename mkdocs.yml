@@ -1,3 +1,9 @@
-site_name: My Docs
+site_name: RealCedric
 theme:
   name: 'material'
+
+
+nav:
+  - Home: 'index.md'
+  - 'Linux': 'Linux.md'
+  - 'Meritocracy': 'Meritocracy.md'

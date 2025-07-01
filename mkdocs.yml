@@ -6,7 +6,9 @@ theme:
 nav:
   - Home: 'index.md'
   - 'Linux':
-      - 'Basic Knowledge': 'base.md'
+      - 'Basic Knowledge': 'base_linux.md'
+  - 'Python':
+      - 'Basic Knowledge': 'base_py.md'
   - 'Meritocracy':
     - '导论': 'Intro.md'
     - '综述': 'Outline.md'

@@ -1,18 +1,14 @@
-site_name: RealCedric
+site_name: Meritocracy
 theme:
   name: 'material'
 
 
 nav:
   - Home: 'index.md'
-  - 'Linux':
-      - 'Basic Knowledge': 'base_linux.md'
-  - 'Python':
-      - 'Basic Knowledge': 'base_py.md'
-  - 'Meritocracy':
-    - '导论': 'Intro.md'
-    - '综述': 'Outline.md'
-    - '研究方法': 'Methods.md'
-    - '研究发现': 'Discovery.md'
-    - '行动建议': 'Solutions.md'
+  - '导论':'Intro.md'
+  - '综述': 'Outline.md'
+  - '研究方法': 'Methods.md'
+  - '研究发现': 'Discovery.md'
+  - '行动建议': 'Solutions.md'
+
 
